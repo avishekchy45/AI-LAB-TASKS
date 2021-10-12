@@ -1,6 +1,6 @@
-# AIL-Codes
+# AIL-LAB-TASKS
 
-##### This repository is for "Artificial Intelligence Laboratory" lab tasks and assignments
+##### This repository is for "Artificial Intelligence" lab tasks and assignments
 ---
 
 Course Code: CSE 318(V3)
