@@ -5,7 +5,7 @@
 
 **Course Code** : CSE 318(V3)
 
-**Course Name** : Artificial Intelligence Laboratory
+**Course Title** : Artificial Intelligence Laboratory
 
 **Course Teacher** : Faisal Ahmed
 
